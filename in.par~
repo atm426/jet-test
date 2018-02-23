@@ -42,7 +42,7 @@ PLM			1.0
 Density_Floor		0.0
 Pressure_Floor		1e-8
 Reset_Entropy		0
-Make_Nickel		0
+Make_Nickel		1
 Add_Cooling		0
 
 //Hydro Parameters
@@ -54,7 +54,7 @@ PointMass		0
 Output_Mass		0
 
 //Nozzle Parameters
-Nozzle_Switch		0
+Nozzle_Switch		1
 Nozzle_Power		0.2
 Nozzle_Gamma		50.0
 Nozzle_Eta		1000.0
